@@ -16,7 +16,7 @@
 	position: relative;
 	float:left;
 	margin-right: 10px;
-	transition:transform 2.5s ease-out;
+	transition:transform 1.5s ease-out;
 }
 .box:hover{
     background-color: purple;
